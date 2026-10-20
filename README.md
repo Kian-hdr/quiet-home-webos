@@ -4,7 +4,7 @@ A calmer, tvOS-inspired home screen for LG webOS TVs, with your favorite apps, o
 
 Created by **Kian Konrad Tajbakhsh**, adapted from [partridgeworks/webos-launcher](https://github.com/partridgeworks/webos-launcher).
 
-**Version 1.3.4 · No root required · Private repository pending review**
+**Version 1.3.4 · No root required**
 
 ## Before and after
 
@@ -110,4 +110,4 @@ Quiet Home's adaptation code uses the [MIT license](LICENSE), with [upstream att
 - **Space photography:** the five bundled images are real NASA observations or photography. Exact sources and credits appear in the [image manifest](public/licenses/Space_Photo_Sources.json) and Settings.
 - **Screenshots:** the comparison uses genuine TV captures converted to metadata-free PNG. Visible LG/provider artwork remains owned by its respective publishers.
 
-This independent project has no sponsorship or endorsement from LG, Apple, NASA or the app providers. The repository remains private until Kian reviews it for publication.
+This independent project has no sponsorship or endorsement from LG, Apple, NASA or the app providers.

@@ -16,7 +16,7 @@ Before an installed update, export preferences, verify Home integration has dura
 
 Pairing keys, service private configuration, debugger output, device inventories, screenshots, receipt files and user backups stay outside the repository. The TV stores its Home key in its own service's `bridge.private.json` with mode 0600; the web app keeps its catalog authorization in app-local storage. Do not export all localStorage or debugger state. The source contains only a six-app illustrative preview, generic target examples and public provenance.
 
-Before any commit or release, inspect the full candidate tree/history for generated SDK manifests, keys, local addresses, per-person defaults and runtime data. `.gitignore` is a prevention aid, not a retrospective scrub. Keep the repository private pending the creator's review. Never publish generated provider artwork or arbitrary new NASA media under the MIT code license.
+Before any commit or release, inspect the full candidate tree/history for generated SDK manifests, keys, local addresses, per-person defaults and runtime data. `.gitignore` is a prevention aid, not a retrospective scrub. Keep private device state outside the public repository. Never publish generated provider artwork or arbitrary new NASA media under the MIT code license.
 
 ## Service and power behavior
 
@@ -28,4 +28,4 @@ When investigating, use only the intended app's official inspector, target alias
 
 Run both root and Service audits after a dependency change. Keep the compatible ws security backport pinned. Root development tooling is not shipped in the TV app, but it still matters on the setup computer. [Dependency audit](Dependency_Audit.md) records exact residuals, including the official CLI's shrinkwrapped dependencies. Do not force a major Vite/CLI migration as part of a routine app update without separate build/behavior validation.
 
-A future public release needs the creator's review, clean source/history, accurate media/software notices, fresh dependency disposition and clear model/testing limits. The present source export starts no release or publication workflow.
+Kian approved public source publication on20-OCT-2026. Any later binary release needs a fresh source/history review, accurate media/software notices, dependency disposition and clear model/testing limits. Public source availability does not establish a tested binary release.

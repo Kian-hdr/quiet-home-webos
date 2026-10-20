@@ -16,4 +16,4 @@ The CLI dependency chain includes the critical proxy-addr advisory and high/mode
 
 Use the setup toolchain only with trusted project/input files; bind any dev server and inspector to localhost, close them after use, and do not expose them to the network. Production packaging does not ship Vite's dev server or the installer CLI to the TV. These exposure limits reduce applicability but do not resolve the advisories. Review official updates and re-run clean install/build/package/audits before any public release.
 
-Repository visibility remains private pending creator review. This snapshot is an audit disposition, not a security certification or permission to ignore a future applicable issue.
+This snapshot is an audit disposition, not a security certification or permission to ignore a future applicable issue.
