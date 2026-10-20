@@ -1,0 +1,11 @@
+{
+  "name": "org.quiethome.launcher.service",
+  "version": "1.3.4",
+  "description": "No-root TV-local Home observer for Quiet Home",
+  "main": "service.js",
+  "dependencies": {
+    "ws": "7.5.11"
+  },
+  "license": "MIT",
+  "author": "Kian Konrad Tajbakhsh"
+}

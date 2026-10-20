@@ -1,0 +1,18 @@
+{
+  "id": "org.quiethome.launcher",
+  "version": "1.3.4",
+  "vendor": "Kian Konrad Tajbakhsh",
+  "type": "web",
+  "main": "index.html",
+  "title": "Quiet Home",
+  "appDescription": "A minimal no-root home app with TV-local Home integration and real NASA photography.",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "iconColor": "#050505",
+  "bgColor": "#000000",
+  "resolution": "1920x1080",
+  "disableBackHistoryAPI": true,
+  "transparent": false,
+  "handlesRelaunch": false,
+  "splashBackground": "Launch_Background.png"
+}

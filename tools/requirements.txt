@@ -1,0 +1,3 @@
+# Used as published data for the registration generator; imported package dependencies are not needed.
+aiowebostv==0.4.2
+websockets==15.0.1

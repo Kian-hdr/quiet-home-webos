@@ -1,0 +1,126 @@
+{
+  "notice": "Actual photographs/observations. Exact credits must remain linked in Settings. No endorsement is implied. Media terms are separate from MIT.",
+  "images": [
+    {
+      "name": "Cats_Paw_Nebula",
+      "download_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22568/PIA22568.jpg",
+      "title": "Cat's Paw Nebula",
+      "source_title": "Cat\u2019s Paw Image 1",
+      "image_id": "PIA22568",
+      "source_page": "https://science.nasa.gov/photojournal/cats-paw-image-1/",
+      "credit": "NASA/JPL-Caltech",
+      "kind": "Real Spitzer telescope observations; traditional multi-instrument infrared composite with 3.6, 4.5, 8 and 24 micron data mapped to visible colors.",
+      "prepared_dimensions": [
+        1920,
+        1080
+      ],
+      "crop": "Centered 16:9 cover crop; Lanczos downsampling; no color changes, added objects, text or logos.",
+      "prepared_sha256": "458adb546e1b294ff45b4ad644087b3a9bc3f6940e2aaa4f0dcff02452f738e4",
+      "usage_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "license": "NASA media usage guidelines; JPL image use policy also relevant for NASA/JPL assets",
+      "additional_usage_url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+      "credit_placement": "Full exact credit, image title/ID and source URL in Settings/About image-credits list, clearly mapping credit to this image. No credit overlay requested or prepared.",
+      "caption_rights_check": "Primary NASA caption provides this credit; no image-specific third-party copyright restriction was identified in the selected caption.",
+      "file": "wallpapers/Cats_Paw_Nebula_1920x1080.jpg"
+    },
+    {
+      "name": "Andromeda_GALEX",
+      "download_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia15/pia15416/PIA15416.jpg",
+      "title": "Andromeda Galaxy",
+      "source_title": "Andromeda",
+      "image_id": "PIA15416",
+      "source_page": "https://science.nasa.gov/photojournal/andromeda/",
+      "credit": "NASA/JPL-Caltech",
+      "kind": "Real GALEX telescope observations; 11 image segments stitched into a two-color ultraviolet composite. Blue represents far-ultraviolet; orange represents near-ultraviolet.",
+      "prepared_dimensions": [
+        1920,
+        1080
+      ],
+      "crop": "Centered 16:9 cover crop; Lanczos downsampling; no color changes, added objects, text or logos.",
+      "prepared_sha256": "b93be8f542546410c971041d4d35e295112f053fa0348a5b59cdcf2fa13efc5a",
+      "usage_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "license": "NASA media usage guidelines; JPL image use policy also relevant for NASA/JPL assets",
+      "additional_usage_url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+      "credit_placement": "Full exact credit, image title/ID and source URL in Settings/About image-credits list, clearly mapping credit to this image. No credit overlay requested or prepared.",
+      "caption_rights_check": "Primary NASA caption provides this credit; no image-specific third-party copyright restriction was identified in the selected caption.",
+      "file": "wallpapers/Andromeda_GALEX_1920x1080.jpg"
+    },
+    {
+      "name": "Galactic_Center_Stars",
+      "download_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia03/pia03654/PIA03654.jpg",
+      "title": "Galactic Center",
+      "source_title": "A Cauldron of Stars at the Galaxy\u2019s Center",
+      "image_id": "PIA03654",
+      "source_page": "https://science.nasa.gov/photojournal/a-cauldron-of-stars-at-the-galaxys-center/",
+      "credit": "NASA/JPL-Caltech",
+      "kind": "Real Spitzer telescope observations; traditional false-color mosaic of thousands of exposures through four infrared bands.",
+      "prepared_dimensions": [
+        1920,
+        1080
+      ],
+      "crop": "Centered 16:9 cover crop; Lanczos downsampling; no color changes, added objects, text or logos.",
+      "prepared_sha256": "b5733ae30c8ad511b7aabc52110a3f6eb921025cf6f4bafe8ecd19e68e74671d",
+      "usage_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "license": "NASA media usage guidelines; JPL image use policy also relevant for NASA/JPL assets",
+      "additional_usage_url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+      "credit_placement": "Full exact credit, image title/ID and source URL in Settings/About image-credits list, clearly mapping credit to this image. No credit overlay requested or prepared.",
+      "caption_rights_check": "Primary NASA caption provides this credit; no image-specific third-party copyright restriction was identified in the selected caption.",
+      "file": "wallpapers/Galactic_Center_Stars_1920x1080.jpg"
+    },
+    {
+      "name": "Great_Aurora",
+      "download_url": "https://www.nasa.gov/wp-content/uploads/2024/09/51593189308-1c69b676ee-o.jpg",
+      "title": "Great Aurora",
+      "source_title": "Great Aurora",
+      "source_page": "https://www.nasa.gov/image-article/great-aurora/",
+      "credit": "NASA/Shane Kimbrough",
+      "kind": "Astronaut photograph from the International Space Station; the source article identifies the photographer. No scientific multi-filter composite identified by the source.",
+      "prepared_dimensions": [
+        1920,
+        1080
+      ],
+      "crop": "Centered 16:9 cover crop; Lanczos downsampling; no color changes, added objects, text or logos.",
+      "prepared_sha256": "650981065b0752dca2039fc819c503cdc0ad3c8e34882569b4afa6c93469aa30",
+      "usage_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "license": "NASA media usage guidelines; JPL image use policy also relevant for NASA/JPL assets",
+      "credit_placement": "Full exact credit, image title/ID and source URL in Settings/About image-credits list, clearly mapping credit to this image. No credit overlay requested or prepared.",
+      "caption_rights_check": "Primary NASA caption provides this credit; no image-specific third-party copyright restriction was identified in the selected caption.",
+      "file": "wallpapers/Great_Aurora_1920x1080.jpg"
+    },
+    {
+      "name": "Saturn_Earth_Smiled",
+      "download_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia17/pia17172/PIA17172.jpg",
+      "title": "Saturn",
+      "source_title": "The Day the Earth Smiled",
+      "image_id": "PIA17172",
+      "source_page": "https://science.nasa.gov/photojournal/the-day-the-earth-smiled/",
+      "credit": "NASA/JPL-Caltech/SSI",
+      "kind": "Cassini natural-color photographic mosaic from 141 wide-angle images through red, green and blue filters. Source processing brightened planets, stars and outer rings relative to Saturn for visibility. Not a single exposure, an illustration or AI-generated image.",
+      "prepared_dimensions": [
+        1920,
+        1080
+      ],
+      "crop": "Centered 16:9 cover crop; Lanczos downsampling; no color changes, added objects, text or logos.",
+      "prepared_sha256": "fe59549975bcd92355f97941259ab8999518c72f94217c3d055cc4f2ca7444d2",
+      "usage_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "license": "NASA media usage guidelines; JPL image use policy also relevant for NASA/JPL assets",
+      "additional_usage_url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+      "credit_placement": "Full exact credit, image title/ID and source URL in Settings/About image-credits list, clearly mapping credit to this image. No credit overlay requested or prepared.",
+      "caption_rights_check": "Primary NASA caption provides this credit; no image-specific third-party copyright restriction was identified in the selected caption.",
+      "file": "wallpapers/Saturn_Earth_Smiled_1920x1080.jpg"
+    },
+    {
+      "file": "Launch_Background.png",
+      "title": "Saturn launch background",
+      "source_title": "The Day the Earth Smiled",
+      "image_id": "PIA17172",
+      "source_page": "https://science.nasa.gov/photojournal/the-day-the-earth-smiled/",
+      "credit": "NASA/JPL-Caltech/SSI",
+      "usage_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "additional_usage_url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+      "license": "NASA media usage guidelines and JPL image use policy; not MIT",
+      "crop": "Darkened PNG derivative of the prepared Cassini Saturn photograph.",
+      "prepared_sha256": "3ca65971e000c92d085c7c2a281e64d28c4aa437d026fc8a445e095533aa33a6"
+    }
+  ]
+}

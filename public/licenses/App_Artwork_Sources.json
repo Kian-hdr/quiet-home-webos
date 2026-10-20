@@ -1,0 +1,92 @@
+[
+  {
+    "app": "Netflix",
+    "id": "netflix",
+    "title": "Netflix",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/d9/39/b3d9396e-06fd-1126-332b-a8cb660cb704/App_Icon-marketing.lsr/1280x768bb.png",
+    "source_url": "https://apps.apple.com/de/app/netflix/id363590051?platform=tv",
+    "sha256": "dc01499cb76539aed720cad9758e9fe1fac3d8c91a94ad29800fdcefa4da6a8b",
+    "render_sha256": "fcf742596c8d0aa870b45e164bedb4938e86a98f58a1cf3cbaa46686049932e7"
+  },
+  {
+    "app": "YouTube",
+    "id": "youtube.leanback.v4",
+    "title": "YouTube",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/d6/91/49d6917f-12a2-e8bd-f995-fd5c836d598a/AppIconSmall-marketing.lsr/1280x768bb.png",
+    "source_url": "https://apps.apple.com/de/app/youtube/id544007664?platform=tv",
+    "sha256": "0b9f1e1d7e92765a69e93a8ca1b5e0d74063f609eaffd3bb49bf1917ffd3c5b5",
+    "render_sha256": "5100e946939875b2603262f36d2aa6860618b6a4a76a0a014774e93b14284999"
+  },
+  {
+    "app": "Prime_Video",
+    "id": "amazon",
+    "title": "Amazon Prime Video",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/8d/99/428d995b-e927-8925-31b4-12d7c843c30f/App_Icon-marketing.lsr/1280x768bb.png",
+    "source_url": "https://apps.apple.com/de/app/amazon-prime-video/id545519333?platform=tv",
+    "sha256": "dc1559b949f64324de6c3d87ac71cc41bec8061db11c8766d5c17a5d1be2c9f9",
+    "render_sha256": "f1263171013ed93b8025e4c33f79a7a34aca7e6afae6ff69b7869a64a3286e7d"
+  },
+  {
+    "app": "Disney_Plus",
+    "id": "com.disney.disneyplus-prod",
+    "title": "Disney+",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a5/9b/6ba59b75-0bf3-2856-c512-b37961af635a/App_Icon_-_Small-marketing.lsr/1280x768bb.png",
+    "source_url": "https://apps.apple.com/de/app/disney/id1446075923?platform=tv",
+    "sha256": "4c78a972ac885a287b4054f3cab10d7d4cc0d153f4aa0bd8c7f9dfbcdde08a80",
+    "render_sha256": "92ff8dde9f77903c5e9ffb7a68002b45b3b19a1883b5f5fa2506821db2b62829"
+  },
+  {
+    "app": "ARD_Mediathek",
+    "id": "ard.mediathek",
+    "title": "ARD Mediathek",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/4f/1e/324f1e5f-5aba-f56b-d3ac-65f1c91e2b3a/App_Icon_-_Small-marketing.lsr/1280x768bb.png",
+    "source_url": "https://apps.apple.com/de/app/ard-mediathek/id981496660?platform=tv",
+    "sha256": "507af22038d85ec6e52ec8928b7be644f44680ff0fe6e46c6864100e80e4b848",
+    "render_sha256": "760bb2e750dcdbdd85e7b3500619d69ffbb950652a92917a572a9c5322fd5106"
+  },
+  {
+    "app": "ZDF",
+    "id": "de.zdf.app.zdfm3",
+    "title": "ZDF",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/fa/db/5cfadbac-69d7-8375-2bb4-c62d017d3df6/App_Icon-marketing.lsr/1280x768bb.png",
+    "source_url": "https://apps.apple.com/de/app/zdf/id437025413?platform=tv",
+    "sha256": "beaa5ea4227130437e4f23b5022a0fbf21500e1f62c70b8cd972d8b60cfb0858",
+    "render_sha256": "bedab673cad9e4fb36348b308477b9a4f3f5567d492e16ba0fa6c50e0f6ae8f0"
+  },
+  {
+    "app": "RTL_Plus",
+    "id": "com.netrtl.tvnow",
+    "title": "RTL+",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/a3/a7/31a3a728-c668-019f-f3ff-8c7dde69e9bb/App_Icon-marketing.lsr/1280x768bb.png",
+    "source_url": "https://apps.apple.com/de/app/rtl/id1057991212?platform=tv",
+    "sha256": "6072731a4f148fec4910ec8bfa8522be42e4f435bb5f38e1468f276a8d6b0e5d",
+    "render_sha256": "b6cd81aad1181553d377d08730597b1c2d33c7edfc85e90f66f28ec45f45c4b6"
+  },
+  {
+    "app": "Joyn",
+    "id": "joyn",
+    "title": "Joyn | deine Streaming App",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/76/ac/7276aca5-99b1-c392-2b52-b64809141a0d/App_Icon-marketing.lsr/1280x768bb.png",
+    "source_url": "https://apps.apple.com/de/app/joyn-deine-streaming-app/id826510222?platform=tv",
+    "sha256": "be17b86adadb7298384453cdc327fced7cf1501f3aeef5069e32087f443b2c10",
+    "render_sha256": "5d92c63dbf33bbac1a5999ec485916e228bfcc790b7955294bc7c3b0e57ba50e"
+  },
+  {
+    "app": "Paramount_Plus",
+    "id": "com.pplus.webapp.prod-intl",
+    "title": "Paramount+",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/d4/0c/10d40c82-3d2c-97d3-516e-6bd63181e765/App_Icon-marketing.lsr/1280x768bb.png",
+    "source_url": "https://apps.apple.com/de/app/paramount/id1340650234?platform=tv",
+    "sha256": "02b91532d85033b12499c4490e7895bd3527edbd8cd5763e9270708edb91d9c4",
+    "render_sha256": "731a31edade54aebf4413f30869948d5047b3e0574ee4687bec2c53c60ce6907"
+  },
+  {
+    "app": "waipu_tv",
+    "id": "tv.waipu.app.waipu-lg",
+    "title": "waipu.tv - Live TV Streaming",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/8a/95/728a9533-864a-c419-6900-cd36beb89e5d/App_Icon-marketing.lsr/1280x768bb.png",
+    "source_url": "https://apps.apple.com/de/app/waipu-tv-live-tv-streaming/id1119988075?platform=tv",
+    "sha256": "78fbd632d37081dad65e75d084bf41bf4f3e60de624ca8085d13cc6b6d47d0b9",
+    "render_sha256": "d7954d91b0a304946a14fbf8d8736f013c54990f928265a82ef352eae4a1a65b"
+  }
+]

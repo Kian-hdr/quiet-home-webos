@@ -1,0 +1,38 @@
+# Reproducible output and dependencies
+node_modules/
+Service/node_modules/
+dist/
+build/
+*.ipk
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Generated public-provider artifacts (not source licenses)
+Service/sdk-registration.json
+src/config/artwork.generated.ts
+public/icons/apps/
+
+# Never commit device state, receipts, logs, credentials or custom inventories
+*.private.json
+*.private.json.pending
+*.key
+*.pem
+*.p12
+*.pfx
+*.env
+.env*
+tv.env
+private-state/
+Private_State/
+Recovery_Receipts/
+*Receipt*.json
+*Receipt*.pending
+*Backup*.json
+*.log
+src/config/catalog.local.ts
+src/config/installedPreview*
+src/config/rawcatalog.local*
+screenshots/
+backups/

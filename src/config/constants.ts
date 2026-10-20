@@ -1,0 +1,36 @@
+// App-wide constants that are not visual tokens (see theme/tokens.ts for those).
+
+export const APP_ID = 'org.quiethome.launcher';
+
+/** webOS app IDs the launcher itself needs. */
+export const SYSTEM_APP = {
+	lgHome: 'com.webos.app.home',
+	liveTv: 'com.webos.app.livetv'
+} as const;
+
+/** Luna service URIs. A sideloaded web app on webOS 6 may only call methods in the
+ *  TV's "public" LS2 group; TV permissions remain enforced for each method. */
+export const LUNA = {
+	launch: 'luna://com.webos.applicationManager/launch',
+	appLoadStatus: 'luna://com.webos.applicationManager/getAppLoadStatus',
+	inputStatus: 'luna://com.webos.service.eim/getAllInputStatus',
+	preferences: 'luna://com.webos.service.systemservice/getPreferences'
+} as const;
+
+/** Remote-control key codes as delivered to a webOS web app. */
+export const KEY = {
+	left: 37, up: 38, right: 39, down: 40,
+	enter: 13,
+	back: 461,          // webOS "BACK" (needs disableBackHistoryAPI in appinfo.json)
+	escape: 27          // handy when developing in a desktop browser
+} as const;
+
+export const TIMING = {
+	lunaTimeoutMs: 4000,
+	toastMs: 2200,
+	clockTickMs: 1000,
+	longPressMs: 600        // OK held this long enters/leaves re-order mode
+} as const;
+
+/** localStorage key for the user's selections. Bump the suffix on breaking changes. */
+export const STORAGE_KEY = 'launcher-config-v1';

@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-20",
+  "scope": "Setup-computer development dependencies; not shipped as TV runtime",
+  "counts": {
+    "info": 0,
+    "low": 0,
+    "moderate": 3,
+    "high": 7,
+    "critical": 1,
+    "total": 11
+  },
+  "findings": [
+    {
+      "name": "@webos-tools/cli",
+      "severity": "high",
+      "range": "*",
+      "nodes": [
+        "node_modules/@webos-tools/cli"
+      ],
+      "advisories": []
+    },
+    {
+      "name": "brace-expansion",
+      "severity": "high",
+      "range": "<=1.1.20 || 4.0.0 - 5.0.11",
+      "nodes": [
+        "node_modules/@webos-tools/cli/node_modules/brace-expansion",
+        "node_modules/@webos-tools/cli/node_modules/rimraf/node_modules/brace-expansion"
+      ],
+      "advisories": [
+        "https://github.com/advisories/GHSA-qhr7-859c-m2p7",
+        "https://github.com/advisories/GHSA-q2hr-2g5m-vwhr",
+        "https://github.com/advisories/GHSA-6j4f-fj2g-mc7p"
+      ]
+    },
+    {
+      "name": "braces",
+      "severity": "high",
+      "range": "*",
+      "nodes": [
+        "node_modules/@webos-tools/cli/node_modules/braces"
+      ],
+      "advisories": [
+        "https://github.com/advisories/GHSA-vfj7-8cjw-p6xm"
+      ]
+    },
+    {
+      "name": "esbuild",
+      "severity": "moderate",
+      "range": "<=0.24.2",
+      "nodes": [
+        "node_modules/esbuild"
+      ],
+      "advisories": [
+        "https://github.com/advisories/GHSA-67mh-4wv8-2f99"
+      ]
+    },
+    {
+      "name": "fast-glob",
+      "severity": "high",
+      "range": "*",
+      "nodes": [
+        "node_modules/@webos-tools/cli/node_modules/fast-glob"
+      ],
+      "advisories": []
+    },
+    {
+      "name": "micromatch",
+      "severity": "high",
+      "range": ">=0.2.0",
+      "nodes": [
+        "node_modules/@webos-tools/cli/node_modules/micromatch"
+      ],
+      "advisories": []
+    },
+    {
+      "name": "proxy-addr",
+      "severity": "critical",
+      "range": "1.1.0 - 2.0.7",
+      "nodes": [
+        "node_modules/@webos-tools/cli/node_modules/proxy-addr"
+      ],
+      "advisories": [
+        "https://github.com/advisories/GHSA-jqcg-44mw-7w3h"
+      ]
+    },
+    {
+      "name": "qs",
+      "severity": "moderate",
+      "range": "2.2.5 - 6.15.3",
+      "nodes": [
+        "node_modules/@webos-tools/cli/node_modules/qs"
+      ],
+      "advisories": [
+        "https://github.com/advisories/GHSA-x5fp-wj9c-mxmx",
+        "https://github.com/advisories/GHSA-4mjr-xmp4-gh2g"
+      ]
+    },
+    {
+      "name": "shelljs",
+      "severity": "high",
+      "range": ">=0.9.0",
+      "nodes": [
+        "node_modules/@webos-tools/cli/node_modules/shelljs"
+      ],
+      "advisories": []
+    },
+    {
+      "name": "sprintf-js",
+      "severity": "moderate",
+      "range": "*",
+      "nodes": [
+        "node_modules/@webos-tools/cli/node_modules/sprintf-js"
+      ],
+      "advisories": [
+        "https://github.com/advisories/GHSA-hp3w-g68c-fv3c"
+      ]
+    },
+    {
+      "name": "vite",
+      "severity": "high",
+      "range": "<=6.4.2",
+      "nodes": [
+        "node_modules/vite"
+      ],
+      "advisories": [
+        "https://github.com/advisories/GHSA-fx2h-pf6j-xcff",
+        "https://github.com/advisories/GHSA-4w7w-66w2-5vf9",
+        "https://github.com/advisories/GHSA-v6wh-96g9-6wx3"
+      ]
+    }
+  ]
+}
