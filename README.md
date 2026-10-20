@@ -8,10 +8,17 @@ Created by **Kian Konrad Tajbakhsh**, adapted from [partridgeworks/webos-launche
 
 ## Before and after
 
-| Before: LG Home | After: Quiet Home |
-| :---: | :---: |
-| ![Before: the original LG Home screen with TV features and an app row](docs/images/Before.png) | ![After: Quiet Home with a dark Saturn photograph and six favorite apps](docs/images/After.png) |
-| LG's standard home screen and TV feature panels. | Your favorite apps in a simple Dock over rotating space imagery. |
+### Before: LG Home
+
+LG's standard home screen, with TV feature panels above the app row.
+
+![Before: the original LG Home screen with TV features and an app row](docs/images/Before.png)
+
+### After: Quiet Home
+
+Your favorite apps in a simple Dock over rotating space imagery.
+
+![After: Quiet Home with a dark Saturn photograph and six favorite apps](docs/images/After.png)
 
 Both screenshots come from the actual TV test. The **after** image shows Quiet Home 1.3.4. See [compatibility and limits](docs/Compatibility_And_Limits.md) for the tested hardware and verification scope.
 
