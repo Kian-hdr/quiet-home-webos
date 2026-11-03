@@ -1,10 +1,10 @@
-# Quiet Home
+<h1 align="center">Quiet Home</h1>
 
-A calmer home screen for LG webOS TVs.
+<p align="center">A calmer home screen for LG webOS TVs.</p>
 
-<img src="public/icon.png" width="72" alt="Quiet Home icon">
+<p align="center"><img src="public/icon.png" width="72" alt="Quiet Home icon"></p>
 
-[Build and install](#build-and-install) · [Before and after](#before-and-after) · [Recovery](#updates-recovery-and-technical-details)
+<p align="center"><a href="#build-and-install">Build and install</a> · <a href="#before-and-after">Before and after</a> · <a href="#updates-recovery-and-technical-details">Recovery</a></p>
 
 A calmer, tvOS-inspired home screen for LG webOS TVs, with your favorite apps, original app icons and rotating space photography.
 
