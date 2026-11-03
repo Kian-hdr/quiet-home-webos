@@ -6,6 +6,8 @@ Created by **Kian Konrad Tajbakhsh**, adapted from [partridgeworks/webos-launche
 
 **Version 1.3.4 · No root required**
 
+[Build and install](#build-and-install) · [Before and after](#before-and-after) · [Recovery](#updates-recovery-and-technical-details)
+
 ## Before and after
 
 ### Before: LG Home
