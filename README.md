@@ -1,12 +1,16 @@
 # Quiet Home
 
+A calmer home screen for LG webOS TVs.
+
+<img src="public/icon.png" width="72" alt="Quiet Home icon">
+
+[Build and install](#build-and-install) · [Before and after](#before-and-after) · [Recovery](#updates-recovery-and-technical-details)
+
 A calmer, tvOS-inspired home screen for LG webOS TVs, with your favorite apps, original app icons and rotating space photography.
 
 Created by **Kian Konrad Tajbakhsh**, adapted from [partridgeworks/webos-launcher](https://github.com/partridgeworks/webos-launcher).
 
 **Version 1.3.4 · No root required**
-
-[Build and install](#build-and-install) · [Before and after](#before-and-after) · [Recovery](#updates-recovery-and-technical-details)
 
 ## Before and after
 
