@@ -1,6 +1,6 @@
 # Attribution
 
-**Quiet Home creator and adaptation author:** Kian Konrad Tajbakhsh, 2026.
+**Quiet Home creator and adaptation author:** Kian Konrad, 2026.
 
 **Upstream launcher:** [partridgeworks/webos-launcher](https://github.com/partridgeworks/webos-launcher), source baseline commit `1e2c39b9a988ceb1b258e40e3592bda84a2aa076`, MIT. Its copyright notice, “Copyright (c) 2026 webos-launcher contributors,” remains in [LICENSE](LICENSE) and the unmodified [upstream notice](public/licenses/Upstream_Launcher_MIT.txt). Creator attribution for this adaptation does not claim sole authorship of upstream code.
 
