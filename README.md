@@ -8,7 +8,7 @@
 
 A calmer, tvOS-inspired home screen for LG webOS TVs, with your favorite apps, original app icons and rotating space photography.
 
-Created by **Kian Konrad Tajbakhsh**, adapted from [partridgeworks/webos-launcher](https://github.com/partridgeworks/webos-launcher).
+Created by **Kian Konrad**, adapted from [partridgeworks/webos-launcher](https://github.com/partridgeworks/webos-launcher).
 
 **Version 1.3.4 · No root required**
 
