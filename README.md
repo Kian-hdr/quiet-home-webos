@@ -1,4 +1,9 @@
-<h1 align="center">Quiet Home</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/README_Title_Dark.svg">
+    <img src="docs/assets/README_Title_Light.svg" width="200" alt="Quiet Home">
+  </picture>
+</p>
 
 <p align="center">A calmer home screen for LG webOS TVs.</p>
 
